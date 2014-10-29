@@ -1,0 +1,62 @@
+﻿生成启动时间为 2014/10/29 16:34:18。
+项目“C:\Users\lichenyang\documents\visual studio 2012\Projects\FlashToCocosX\FlashToCocosX\FlashToCocosX.vcxproj”在节点 2 上(Build 个目标)。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\lichenyang\Documents\Visual Studio 2012\Projects\FlashToCocosX\FlashToCocosX" /I"C:\Users\lichenyang\Documents\Visual Studio 2012\Projects\FlashToCocosX\FlashToCocosX\tinyxml" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt FlashToCocosXDlg.cpp
+  FlashToCocosXDlg.cpp
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(270): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(271): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(276): error C2065: “NSValue”: 未声明的标识符
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(276): error C2065: “pointValue”: 未声明的标识符
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(276): error C3481: “NSValue”: 未找到 lambda 捕获变量
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(276): error C2146: 语法错误: 缺少“]”(在标识符“valueWithCGPoint”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(276): error C2059: 语法错误:“]”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(278): error C2018: 未知字符“0x40”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2018: 未知字符“0x40”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2018: 未知字符“0x40”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2018: 未知字符“0x40”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(292): error C2018: 未知字符“0x40”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(297): error C2018: 未知字符“0x40”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(276): error C2061: 语法错误: 标识符“valueWithCGPoint”
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(278): error C2337: “elementDict”: 未找到特性
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(278): error C2146: 语法错误: 缺少“]”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(278): error C2146: 语法错误: 缺少“;”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(278): error C2065: “pointValue”: 未声明的标识符
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(278): error C2146: 语法错误: 缺少“;”(在标识符“forKey”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(278): error C2143: 语法错误 : 缺少“;”(在“]”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2337: “elementDict”: 未找到特性
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2146: 语法错误: 缺少“]”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2146: 语法错误: 缺少“;”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2045: “setObject”: 标签重定义
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C3493: 无法隐式捕获“scaleX”，因为尚未指定默认捕获模式
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2146: 语法错误: 缺少“;”(在标识符“forKey”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2045: “forKey”: 标签重定义
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(280): error C2143: 语法错误 : 缺少“;”(在“]”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2337: “elementDict”: 未找到特性
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2146: 语法错误: 缺少“]”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2146: 语法错误: 缺少“;”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2045: “setObject”: 标签重定义
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C3493: 无法隐式捕获“scaleY”，因为尚未指定默认捕获模式
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2146: 语法错误: 缺少“;”(在标识符“forKey”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2045: “forKey”: 标签重定义
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(281): error C2143: 语法错误 : 缺少“;”(在“]”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2337: “elementDict”: 未找到特性
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2146: 语法错误: 缺少“]”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2146: 语法错误: 缺少“;”(在标识符“setObject”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2045: “setObject”: 标签重定义
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C3493: 无法隐式捕获“rota”，因为尚未指定默认捕获模式
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2146: 语法错误: 缺少“;”(在标识符“forKey”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2045: “forKey”: 标签重定义
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(282): error C2143: 语法错误 : 缺少“;”(在“]”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(285): error C3493: 无法隐式捕获“frameData”，因为尚未指定默认捕获模式
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(286): error C3493: 无法隐式捕获“colorData”，因为尚未指定默认捕获模式
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(292): error C2065: “NSString”: 未声明的标识符
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(292): error C2065: “alpha”: 未声明的标识符
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(294): error C2065: “alpha”: 未声明的标识符
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(294): error C3481: “NSString”: 未找到 lambda 捕获变量
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(294): error C2146: 语法错误: 缺少“]”(在标识符“stringWithCString”的前面)
+c:\users\lichenyang\documents\visual studio 2012\projects\flashtococosx\flashtococosx\flashtococosxdlg.cpp(294): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+已完成生成项目“C:\Users\lichenyang\documents\visual studio 2012\Projects\FlashToCocosX\FlashToCocosX\FlashToCocosX.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.54
